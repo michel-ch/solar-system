@@ -72,11 +72,11 @@ Run the executable
 
 ### Controls
 
-- QZSD: Camera movement
+- Q Z S D keys: Camera movement
 
-- AE: Move up / Move down
+- E A keys: Move up / Move down
 
-- Mouse scroll: Zoom 
+- Mouse scroll: Zoom in / Zoom out
 
 - Arrow Keys on Keyboard: Look around
 
