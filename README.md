@@ -76,7 +76,7 @@ Run the executable
 
 ### Report
 
-[Report]()
+[Report](https://github.com/michel-ch/solar-system/blob/main/doc/Rapport%20finale%20syst%C3%A8me%20solaire.pdf)
 
 ### Controls
 
