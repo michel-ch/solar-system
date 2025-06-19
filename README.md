@@ -72,7 +72,7 @@ Run the executable
 
 ### Demo
 
-[Demo](https://youtu.be/oG9WC46DfhQ)
+[Demo](https://youtu.be/oG9WC46DfhQ) Alternative Media [Demo](https://github.com/michel-ch/solar-system/blob/main/doc/SystemSolaire.mp4)
 
 ### Report
 
