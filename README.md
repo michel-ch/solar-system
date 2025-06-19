@@ -6,7 +6,7 @@ This project, developed as part of the Computer Graphics course, demonstrates th
 
 - GCC/G++ compiler (version 11.0 or higher)
 - CMake (version 3.10 or higher)
-- OpenGL (version 4.3 or higher)
+- OpenGL (version 3.0 or higher)
 - GLFW3
 - Graphics card with OpenGL support
 
