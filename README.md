@@ -74,6 +74,8 @@ Run the executable
 
 - QZSD: Camera movement
 
+- AE: Move up / Move down
+
 - Mouse scroll: Zoom 
 
 - Arrow Keys on Keyboard: Look around
