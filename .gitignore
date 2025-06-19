@@ -1,0 +1,11 @@
+build/*
+*.exe
+.vscode/
+*Zone.Identifier*
+*.Zone*
+*:Zone*
+*.[zZ]one*
+*[zZ]one.[iI]dentifier*
+README.md*Zone*
+CMakeLists.txt*Zone*
+*Zone.IdentifierZone.Identifier
